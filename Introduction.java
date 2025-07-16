@@ -30,5 +30,23 @@ public class Introduction {
         g. Hashing
             Technique to map data to a fixed-size table (hash table) using a hash function.
             Allows fast access to data, usually in constant time O(1).
+
+        h. Advantages of Array -
+            a. Contiguous memory allocation
+            b. Access Time T(n)=O(1)
+            c. Can store multiple data of same type using single variable.
+
+        i. Disadvantages of Array -
+            a. Insertion time complexity T(n)=O(n)
+            b. Deletion time complexity T(n)=O(n)
+            c. Size of array known advance
+            d. Wastage of memory if data is not stored as per the size of array declared.
+
+         j. Applications of Array -
+            a. Searching
+            b. Sorting
+            d. Matrix Operations
+            e. Image preprocessing
+            f. Can implement stack, queue, tree, graph.
     */
 }
